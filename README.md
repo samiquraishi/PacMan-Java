@@ -4,14 +4,11 @@ A simple **Pac-Man** clone built using **Java and Swing**. This project brings b
 
 ---
 
-## ✨ Highlights
+## Technical Details
 
-✔️ Classic **Pac-Man** gameplay experience
-👻 AI-driven **ghost enemies** that chase you
-🍒 **Pellets collection system** to increase score
-🧱 **Collision detection** with walls and obstacles
-❤️ **Lives system** – lose all lives, and it's game over
-🎨 **Retro-inspired graphics** for nostalgic gameplay
+*   The entire game logic, drawing, and input handling are contained within the `Game.java` file.
+*   Images for Pac-Man, ghosts, and walls are loaded from the `sprites/` directory.
+*   This project uses Java Swing for the graphical user interface.
 
 ---
 
